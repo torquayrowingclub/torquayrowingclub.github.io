@@ -31,5 +31,14 @@ common-js:
 
     {% include footer-scripts.html %}
 
+    <script>
+      window.addEventListener('load', function() {
+        var numimages=3;
+        rndimg = new Array("../old/images/double.jpg", "../old/images/boats.jpg", "../old/images/coastal.jpg"");
+        x=(Math.floor(Math.random()*numimages));
+        randomimage=(rndimg[x]);
+        document.getElementById("banner").style.backgroundImage = "url('+ randomimage +')"; } )
+    </script>
+
   </body>
 </html>
