@@ -16,9 +16,9 @@
 
 <script>
   window.addEventListener('load', function() {
-    var numimages=2;
+    var numimages=3;
     rndimg = new Array("../old/images/double.jpg", "../old/images/boats.jpg", "../old/images/coastal.jpg"");
-    x=(Math.floor(Math.random()*rndimages.length));
+    x=(Math.floor(Math.random()*numimages));
     randomimage=(rndimg[x]);
-    document.getElementById("banner").style.backgroundImage = "url("+ randomimage +")"; } )
+    document.getElementById("banner").style.backgroundImage = "url('+ randomimage +')"; } )
 </script>
