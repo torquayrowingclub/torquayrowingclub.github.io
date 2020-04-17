@@ -22,6 +22,7 @@ description:
 navbar-links:
   Club:
     - Information: "about"
+    - Contact: "about"
     - Club Kit: "https://godfrey.co.uk/club/torquayrc"
     - WEARA Calender: "http://www.weara.co.uk/calendar/month"
     - Weather: "weather"
