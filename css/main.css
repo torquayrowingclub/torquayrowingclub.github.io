@@ -435,7 +435,7 @@ footer .theme-by {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 20px 0 20px;
+  margin: 0;
   position: relative;
 }
 .intro-header.big-img {
