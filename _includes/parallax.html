@@ -2,7 +2,6 @@
 <style>
   #banner {
     margin-top: 30px;
-    margin-bottom: -20px;
     width: 100%;
     background-color: #2D9AB7;
     padding-top: 30%;
@@ -16,7 +15,13 @@
 <div id="banner"></div>
 
 <script>
-  var randombgs=["../old/images/double.jpg", "../old/images/boats.jpg", "../old/images/coastal.jpg"]
 
-  window.onload = funtion() {document.getElementById('banner').style.backgroundImage='url('+Math.floor(Math.random()*randombgs.length)]+')')}
+  if (document.getElementById) { window.onload = swap };
+  function swap() {
+  var numimages=2;
+  rndimg = new Array("../old/images/double.jpg", "../old/images/boats.jpg", "../old/images/coastal.jpg"");
+  x=(Math.floor(Math.random()*numimages));
+  randomimage=(rndimg[x]);
+  document.getElementById("banner").style.backgroundImage = "url("+ randomimage +")";
+}
 </script>
