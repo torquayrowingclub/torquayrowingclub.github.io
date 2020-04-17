@@ -14,17 +14,33 @@ The club isn't all rowing. Many formal and informal Social events are organised 
 
 ## Contact Us
 
-> [General Enquiries: info@torquayrowingclub.co.uk](mailto:info@torquayrowingclub.co.uk)
->
-> [Holly Ball Enquiries: hollyball@torquayrowingclub.co.uk](mailto:hollyball@torquayrowingclub.co.uk)
->
-> [Website Enquiries: web@torquayrowingclub.co.uk](mailto:web@torquayrowingclub.co.uk)
+#### Email us
 
-All written correspondence should be addressed to:
+<details>
+  <summary>General Enquiries</summary>
+  [info@torquayrowingclub.co.uk](mailto:info@torquayrowingclub.co.uk)
+</details>
+
+<details>
+  <summary>Holly Ball Enquiries</summary>
+  [hollyball@torquayrowingclub.co.uk](mailto:hollyball@torquayrowingclub.co.uk)
+</details>
+
+<details>
+  <summary>Website Enquiries</summary>
+  [web@torquayrowingclub.co.uk](mailto:web@torquayrowingclub.co.uk)
+</details>
+
+#### Write to us
 
 > Torquay Rowing Club
+>
 > c/o Royal Torbay Yacht Club
+>
 > 12 Beacon Terrace
+>
 > TORQUAY
+>
 > Devon
+>
 > TQ1 2BH
