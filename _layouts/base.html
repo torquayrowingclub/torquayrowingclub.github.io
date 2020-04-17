@@ -40,7 +40,7 @@ common-js:
         var numPics = pictures.length;
         if (document.images) {
             var chosenPic = Math.floor((Math.random() * numPics));
-            banner.style.background = 'url(' + pictures[chosenPic] + ')';
+            banner.style.src = 'url(' + pictures[chosenPic] + ')';
         }
       }
     </script>
