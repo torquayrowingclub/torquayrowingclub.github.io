@@ -4,6 +4,19 @@ title: Membership
 subtitle:  
 ---
 
+All Full and Junior Members of Torquay Rowing Club have access to many of the facilities provided by Royal Torbay Yacht Club. Rowing membership consists of the following categories:  
+
+> Full: £155  
+>
+> Junior: £55  
+>
+> Full-Time Student: £100  
+>
+> Coxwain: £50  
+>
+> Coach: £50  
+
+
 Torquay Rowing Club is the oldest sporting club in Torbay, founded in 1869.
 
 Although boats and equipment have changed dramatically during its long history, the aims of the club remain the same: To foster the sport of amateur rowing and to provide amenities for it's members.
