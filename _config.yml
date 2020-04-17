@@ -22,15 +22,14 @@ description:
 navbar-links:
   Club:
     - Information: "about"
-    - Club Kit: ""
-    - Weather: ""
-    - WEARA Calender: ""
-    - Membership Prices: ""
-    - Application Form: ""
+    - Club Kit: "https://godfrey.co.uk/club/torquayrc"
+    - WEARA Calender: "http://www.weara.co.uk/calendar/month"
+    - Weather: "weather"
+    - Membership: "membership"
   Events:
-    - Torbay Royal Regatta: "http://deanattali.com/beautiful-jekyll/"
-    - Thatcher Rock 8K: "http://www.markdowntutorial.com/"
-    - Pier to Pier: ""
+    - Torbay Royal Regatta: "royalregatta"
+    - Thatcher Rock 8K: "thatcherrock"
+    - Pier to Pier: "piertopier"
   Holly Ball: "http://www.torquayrowingclub.co.uk/hollyball"
 
 
