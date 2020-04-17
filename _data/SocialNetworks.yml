@@ -29,7 +29,7 @@ reddit:
 
 email:
   name: "Email me"
-  urlTemplate: "mailto:{value}"
+  urlTemplate: "{value}"
   icon: "fas fa-envelope"
 
 linkedin:
