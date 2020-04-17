@@ -22,13 +22,11 @@ description:
 navbar-links:
   Club:
     - Information: "about"
-    - Useful:
-      - Club Kit: ""
-      - Weather: ""
-      - WEARA Calender: ""
-    -Join Us:
-      - Membership Prices: ""
-      - Application Form: ""
+    - Club Kit: ""
+    - Weather: ""
+    - WEARA Calender: ""
+    - Membership Prices: ""
+    - Application Form: ""
   Events:
     - Torbay Royal Regatta: "http://deanattali.com/beautiful-jekyll/"
     - Thatcher Rock 8K: "http://www.markdowntutorial.com/"
