@@ -25,6 +25,8 @@ common-js:
 
     {% include nav.html %}
 
+    <div id="banner" style="width:100%;height:50vh;margin:0 auto;"></div>
+
     {{ content }}
 
     {% include footer.html %}
@@ -32,12 +34,15 @@ common-js:
     {% include footer-scripts.html %}
 
     <script>
-      window.addEventListener('load', function() {
-        var numimages=3;
-        rndimg = new Array("../old/images/double.jpg", "../old/images/boats.jpg", "../old/images/coastal.jpg"");
-        x=(Math.floor(Math.random()*numimages));
-        randomimage=(rndimg[x]);
-        document.getElementById("banner").style.backgroundImage = "url('+ randomimage +')"; } )
+      window.onload = function () {
+        var banner = document.getElementById('banner');
+        var pictures = new Array('https://newevolutiondesigns.com/images/freebies/winter-facebook-cover-preview-4.jpg','https://newevolutiondesigns.com/images/freebies/winter-facebook-cover-preview-5.jpg','https://newevolutiondesigns.com/images/freebies/winter-facebook-cover-preview-7.jpg','https://newevolutiondesigns.com/images/freebies/winter-facebook-cover-preview-10.jpg','https://newevolutiondesigns.com/images/freebies/winter-facebook-cover-preview-13.jpg');
+        var numPics = pictures.length;
+        if (document.images) {
+            var chosenPic = Math.floor((Math.random() * numPics));
+            banner.style.background = 'url(' + pictures[chosenPic] + ')';
+        }
+      }
     </script>
 
   </body>
