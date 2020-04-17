@@ -38,10 +38,9 @@ common-js:
         var banner = document.getElementById('banner');
         var pictures = ['../old/images/boats.jpg','../old/images/coastal.jpg','../old/images/double.jpg','../old/images/parallax.jpg','../old/images/seaquad.jpg','../old/images/tallship.jpg'];
         var numPics = pictures.length;
-        if (document.images) {
-            var chosenPic = Math.floor((Math.random() * numPics));
-            banner.style.src = 'url(' + pictures[chosenPic] + ')';
-        }
+        var chosenPic = Math.floor((Math.random() * numPics));
+        banner.style.src = 'url(' + pictures[chosenPic] + ')';
+        
       }
     </script>
 
