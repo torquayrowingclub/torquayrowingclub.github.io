@@ -28,7 +28,7 @@ reddit:
   icon: "fab fa-reddit"
 
 email:
-  name: "Email me"
+  name: "Contact Us"
   urlTemplate: "{value}"
   icon: "fas fa-envelope"
 

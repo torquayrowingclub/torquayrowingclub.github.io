@@ -12,9 +12,9 @@ The club has been affiliated to the Royal Torbay Yacht Club since the early 1980
 
 The club isn't all rowing. Many formal and informal Social events are organised throughout the year from barbecues, rounders and bowling nights to the Crab Supper, Club Supper and the finest Christmas event in Torbay, the Holly Ball.
 
-## Contact Us
+# Contact Us
 
-#### Email us
+## Email us
 
 > <details>
 >   <summary>General Enquiries</summary>
@@ -34,7 +34,7 @@ The club isn't all rowing. Many formal and informal Social events are organised 
 >   <blockquote><a href="mailto:web@torquayrowingclub.co.uk">web@torquayrowingclub.co.uk</a></blockquote>
 > </details>  
 
-#### Write to us
+## Write to us
 
 > Torquay Rowing Club  
   c/o Royal Torbay Yacht Club  
