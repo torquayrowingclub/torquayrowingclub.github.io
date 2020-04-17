@@ -2,6 +2,7 @@
 <style>
   #banner {
     margin-top: 30px;
+    margin-bottom: -20px;
     width: 100%;
     background-color: #2D9AB7;
     padding-top: 30%;
@@ -17,5 +18,5 @@
 <script>
   var randombgs=["../old/images/double.jpg", "../old/images/boats.jpg", "../old/images/coastal.jpg"]
 
-  document.getElementById('banner').style.background='white url('+Math.floor(Math.random()*randombgs.length)]+')')
+  window.onload = funtion() {document.getElementById('banner').style.backgroundImage='url('+Math.floor(Math.random()*randombgs.length)]+')')}
 </script>
