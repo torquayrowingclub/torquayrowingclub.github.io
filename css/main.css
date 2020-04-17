@@ -262,10 +262,6 @@ img {
 
 /* --- Footer --- */
 
-footer * {
-  background-color: transparent;
-}
-
 footer {
   padding: 30px 0;
   border-top: 1px #EAEAEA solid;
