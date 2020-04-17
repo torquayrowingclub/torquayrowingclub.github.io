@@ -18,16 +18,21 @@ The club isn't all rowing. Many formal and informal Social events are organised 
 
 <details>
   <summary>General Enquiries</summary>
+  
   <a href="mailto:info@torquayrowingclub.co.uk">info@torquayrowingclub.co.uk</a>
 </details>
-</br>
+
+
 <details>
   <summary>Holly Ball Enquiries</summary>
+
   <a href="mailto:hollyball@torquayrowingclub.co.uk">hollyball@torquayrowingclub.co.uk</a>
 </details>
-</br>
+
+
 <details>
   <summary>Website Enquiries</summary>
+
   <a href="mailto:web@torquayrowingclub.co.uk">web@torquayrowingclub.co.uk</a>
 </details>
 
