@@ -15,13 +15,10 @@
 <div id="banner"></div>
 
 <script>
-
-  if (document.getElementById) { window.onload = swap };
-  function swap() {
-  var numimages=2;
-  rndimg = new Array("../old/images/double.jpg", "../old/images/boats.jpg", "../old/images/coastal.jpg"");
-  x=(Math.floor(Math.random()*numimages));
-  randomimage=(rndimg[x]);
-  document.getElementById("banner").style.backgroundImage = "url("+ randomimage +")";
-}
+  window.addEventListener('load', function() {
+    var numimages=2;
+    rndimg = new Array("../old/images/double.jpg", "../old/images/boats.jpg", "../old/images/coastal.jpg"");
+    x=(Math.floor(Math.random()*numimages));
+    randomimage=(rndimg[x]);
+    document.getElementById("banner").style.backgroundImage = "url("+ randomimage +")"; } )
 </script>
