@@ -45,24 +45,29 @@ youtube:
 britishrowing:
   name: "British Rowing"
   urlTemplate: "https://www.britishrowing.org/club/torquay-rowing-club/"
-  icon: "../../images/britishrowing.gif"
+  icon: "none"
+  src: "../../images/britishrowing.gif"
 
 fisa:
   name: "FISA - World Rowing"
   urlTemplate: "http://www.worldrowing.com/"
-  icon: "../../images/fisa.gif"
+  icon: "none"
+  src: "../../images/fisa.gif"
 
 weara:
   name: "West of England Amateur Rowing Association"
   urlTemplate: "http://www.weara.co.uk/"
-  icon: "../../images/weara.gif"
+  icon: "none"
+  src: "../../images/weara.gif"
 
 rtyc:
   name: "Royal Torbay Yacht Club"
   urlTemplate: "https://rtyc.org/"
-  icon: "../../images/rtyc.png"
+  icon: "none"
+  src: "../../images/rtyc.png"
 
 sportengland:
   name: "Sport England"
   urlTemplate: "https://www.sportengland.org/"
-  icon: "../../images/sportengland.gif"
+  icon: "none"
+  src: "../../images/sportengland.gif"

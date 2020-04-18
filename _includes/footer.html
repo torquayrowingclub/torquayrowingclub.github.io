@@ -16,13 +16,17 @@
             <li>
               <a href="{{ url }}" title="{{ element.name }}">
                 <span class="fa-stack fa-lg" aria-hidden="true">
-                  <i class="{{ element.icon }} fa-stack-1x fa-inverse"></i>
+                  {%- if element.icon == 'none' -%}
+                    <img src="{{ element.src }}" style=""/>
+                  {%- else -%}
+                    <i class="{{ element.icon }} fa-stack-1x fa-inverse"></i>
+                  {%- endif -%}
                 </span>
                 <span class="sr-only">{{ element.name }}</span>
               </a>
             </li>
           {%- endfor -%}
-        </ul>
+
       <p class="copyright text-muted">
       &copy; Copyright {{ site.time | date: '%Y' }}
       {% if site.url-pretty %}
