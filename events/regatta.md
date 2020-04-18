@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Torbay Royal Regatta
-subtitle:
+subtitle:  
 ---
 
 Regatta  content  

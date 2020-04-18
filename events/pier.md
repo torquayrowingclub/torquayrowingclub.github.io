@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pier to Pier
-subtitle:
+subtitle:  
 ---
 
 pier  content  
