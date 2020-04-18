@@ -27,9 +27,9 @@ navbar-links:
     - Weather: "weather"
     - Membership: "membership"
   Events:
-    - Torbay Royal Regatta: "royalregatta"
-    - Thatcher Rock 8K: "thatcherrock"
-    - Pier to Pier: "piertopier"
+    - Torbay Royal Regatta: "events/regatta"
+    - Thatcher Rock 8K: "events/thatcher"
+    - Pier to Pier: "events/pier"
   Holly Ball: "http://www.torquayrowingclub.co.uk/hollyball"
 
 
