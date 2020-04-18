@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Membership
-subtitle:  Application Form
+subtitle:  
 ---
 
 All Full and Junior Members of Torquay Rowing Club have access to many of the facilities provided by Royal Torbay Yacht Club. Rowing membership consists of the following categories:  
