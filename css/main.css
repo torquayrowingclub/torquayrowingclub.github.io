@@ -282,6 +282,10 @@ footer a {
   color: {{site.footer-link-col}};
 }
 
+footer a:hover {
+  color: navy;
+}
+
 footer .list-inline {
   margin: 0;
   padding: 0;
