@@ -22,30 +22,10 @@ twitter:
   urlTemplate: "https://twitter.com/{value}"
   icon: "fab fa-twitter"
 
-reddit:
-  name: "Reddit"
-  urlTemplate: "https://reddit.com/u/{value}"
-  icon: "fab fa-reddit"
-
 email:
   name: "Contact Us"
   urlTemplate: "{value}"
   icon: "fas fa-envelope"
-
-linkedin:
-  name: "LinkedIn"
-  urlTemplate: "https://linkedin.com/in/{value}"
-  icon: "fab fa-linkedin"
-
-xing:
-  name: "Xing"
-  urlTemplate: "https://www.xing.com/profile/{value}"
-  icon: "fab fa-xing"
-
-stackoverflow:
-  name: "StackOverflow"
-  urlTemplate: "https://stackoverflow.com/users/{value}"
-  icon: "fab fa-stack-overflow"
 
 snapchat:
   name: "Snapchat"
@@ -62,31 +42,27 @@ youtube:
   urlTemplate: "https://www.youtube.com/{value}"
   icon: "fab fa-youtube"
 
-spotify:
-  name: "Spotify"
-  urlTemplate: "https://open.spotify.com/user/{value}"
-  icon: "fab fa-spotify"
+britishrowing:
+  name: "British Rowing"
+  urlTemplate: "https://www.britishrowing.org/club/torquay-rowing-club/"
+  icon: "../../images/britishrowing.gif"
 
-telephone:
-  name: "Phone"
-  urlTemplate: "tel:{value}"
-  icon: "fas fa-phone"
+fisa:
+  name: "FISA - World Rowing"
+  urlTemplate: "http://www.worldrowing.com/"
+  icon: "../../images/fisa.gif"
 
-rss:
-  name: "RSS"
-  icon: "fas fa-rss"
+weara:
+  name: "West of England Amateur Rowing Association"
+  urlTemplate: "http://www.weara.co.uk/"
+  icon: "../../images/weara.gif"
 
-steam:
-  name: "Steam"
-  urlTemplate: "https://steamcommunity.com/id/{value}"
-  icon: "fab fa-steam"
+rtyc:
+  name: "Royal Torbay Yacht Club"
+  urlTemplate: "https://rtyc.org/"
+  icon: "../../images/rtyc.png"
 
-twitch:
-  name: "Twitch"
-  urlTemplate: "https://www.twitch.tv/{value}"
-  icon: "fab fa-twitch"
-
-yelp:
-  name: "Yelp"
-  urlTemplate: "https://{value}.yelp.com"
-  icon: "fab fa-yelp"
+sportengland:
+  name: "Sport England"
+  urlTemplate: "https://www.sportengland.org/"
+  icon: "../../images/sportengland.gif"

@@ -76,6 +76,11 @@ author:
 social-network-links:
    email: ../../about"
    facebook: "torquayrc"
+   britishrowing: "trc"
+   fisa: "trc"
+   weara: "trc"
+   rtyc: "trc"
+   sportengland: "trc"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -129,7 +134,7 @@ url-pretty: "torquayrowing.club"  # eg. "deanattali.com/beautiful-jekyll"
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : # GitHub username/repository eg.
   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
   reCaptcha:
@@ -141,7 +146,7 @@ staticman:
 # To use Utterances comments: (1) fill in repository (make sure the repository is public), (2) Enable Issues in your repository, (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
 utterances:
-  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository: # GitHub username/repository eg.
   issue-term: title   # Mapping between blog posts and GitHub issues
   theme: github-light # Utterances theme
   label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
@@ -158,15 +163,14 @@ excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+title-separator: ""
 
 # Ruby Date Format
 date_format: "%B %-d, %Y"
 
-# --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/London"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -183,8 +187,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      # comments: true  # add comments to all blog posts
+      # social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
@@ -209,7 +213,7 @@ exclude:
 # prose.io config
 prose:
   rooturl: '_posts'
-  media: 'img'
+  # media: 'img'
   ignore:
     - 404.html
     - LICENSE
@@ -261,6 +265,3 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
