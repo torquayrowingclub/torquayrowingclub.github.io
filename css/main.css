@@ -282,8 +282,12 @@ footer a {
   color: {{site.footer-link-col}};
 }
 
-footer a:hover {
+footer i:hover {
   color: navy;
+}
+
+footer img:hover {
+  filter: greyscale(100%);
 }
 
 footer .list-inline {
