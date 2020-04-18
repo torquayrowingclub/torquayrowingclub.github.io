@@ -1,7 +1,5 @@
 ---
 layout: page
 title: Pier to Pier
-subtitle:  
+subtitle:  TBC
 ---
-
-pier  content  

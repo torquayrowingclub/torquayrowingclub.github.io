@@ -1,7 +1,5 @@
 ---
 layout: page
 title: Torbay Royal Regatta
-subtitle:  
+subtitle:  TBC
 ---
-
-Regatta  content  
