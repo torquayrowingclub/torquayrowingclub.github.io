@@ -2,11 +2,11 @@
 layout: post
 title: Club Update - Good News!
 subtitle:  
-tags: [Update]  
+tags: [COVID-19, Update]  
 ---
 
 Hi All   
-  
+
 I am pleased to let everyone know that we are now able to go on the water in a four but coxes must wear a mask.  
 
 Please continue to book sessions through the google document and adhere to the guidelines previously advised.   
